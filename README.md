@@ -5,3 +5,4 @@ day 2 (Nested loops).docx
 day 3 (arrays).docx
 day 3 (strings).docx
 day 4 (pointers).docx
+day 4 (functions).docx
