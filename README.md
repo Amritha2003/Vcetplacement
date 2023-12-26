@@ -6,3 +6,5 @@ day 3 (arrays).docx
 day 3 (strings).docx
 day 4 (pointers).docx
 day 4 (functions).docx
+day 6(java basic datatypes).docx
+
